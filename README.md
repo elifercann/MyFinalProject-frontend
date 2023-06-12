@@ -1,6 +1,5 @@
-# Northwind
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+## Proje açıklaması 
+Bir araç kiralama sitesinin frontend kısmıdır. Angular ve TypeScript kullanılarak kodlanmıştır. Proje kullanılırken alınan bir hata veya karşılaşılan bir sorun da sayfada bulunan mail adresi aracılığıyla iletişime geçebilirsiniz.
 
 ## Development server
 
