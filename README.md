@@ -1,5 +1,5 @@
-## Proje açıklaması 
-Bir araç kiralama sitesinin frontend kısmıdır. Angular ve TypeScript kullanılarak kodlanmıştır. Proje kullanılırken alınan bir hata veya karşılaşılan bir sorun da sayfada bulunan mail adresi aracılığıyla iletişime geçebilirsiniz.
+## Project description 
+It is the frontend part of a car hire website. It is coded using Angular and TypeScript. If there is an error or a problem encountered while using the project, you can contact via the e-mail address on the page.
 
 ## Development server
 
