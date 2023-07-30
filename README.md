@@ -1,4 +1,4 @@
-## Project description 
+## ECommerceCarRental Frontend 
 It is the frontend part of a car hire website. It is coded using Angular and TypeScript. If there is an error or a problem encountered while using the project, you can contact via the e-mail address on the page.
 
 ## Development server
